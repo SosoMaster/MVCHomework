@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pipes_In_A_Pool", "Pipes_In_A_Pool.csproj", "{061408E2-519E-4BEB-9B89-43E9957C6015}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{061408E2-519E-4BEB-9B89-43E9957C6015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{061408E2-519E-4BEB-9B89-43E9957C6015}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{061408E2-519E-4BEB-9B89-43E9957C6015}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{061408E2-519E-4BEB-9B89-43E9957C6015}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E02BC720-2115-4D67-B721-7ECA9C2C3473}
+	EndGlobalSection
+EndGlobal

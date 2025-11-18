@@ -1,0 +1,14 @@
+C:\Users\HomePC\source\repos\Pipes_In_A_Pool\bin\Debug\net8.0\Pipes_In_A_Pool.exe
+C:\Users\HomePC\source\repos\Pipes_In_A_Pool\bin\Debug\net8.0\Pipes_In_A_Pool.deps.json
+C:\Users\HomePC\source\repos\Pipes_In_A_Pool\bin\Debug\net8.0\Pipes_In_A_Pool.runtimeconfig.json
+C:\Users\HomePC\source\repos\Pipes_In_A_Pool\bin\Debug\net8.0\Pipes_In_A_Pool.dll
+C:\Users\HomePC\source\repos\Pipes_In_A_Pool\bin\Debug\net8.0\Pipes_In_A_Pool.pdb
+C:\Users\HomePC\source\repos\Pipes_In_A_Pool\obj\Debug\net8.0\Pipes_In_A_Pool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HomePC\source\repos\Pipes_In_A_Pool\obj\Debug\net8.0\Pipes_In_A_Pool.AssemblyInfoInputs.cache
+C:\Users\HomePC\source\repos\Pipes_In_A_Pool\obj\Debug\net8.0\Pipes_In_A_Pool.AssemblyInfo.cs
+C:\Users\HomePC\source\repos\Pipes_In_A_Pool\obj\Debug\net8.0\Pipes_In_A_Pool.csproj.CoreCompileInputs.cache
+C:\Users\HomePC\source\repos\Pipes_In_A_Pool\obj\Debug\net8.0\Pipes_In_A_Pool.dll
+C:\Users\HomePC\source\repos\Pipes_In_A_Pool\obj\Debug\net8.0\refint\Pipes_In_A_Pool.dll
+C:\Users\HomePC\source\repos\Pipes_In_A_Pool\obj\Debug\net8.0\Pipes_In_A_Pool.pdb
+C:\Users\HomePC\source\repos\Pipes_In_A_Pool\obj\Debug\net8.0\Pipes_In_A_Pool.genruntimeconfig.cache
+C:\Users\HomePC\source\repos\Pipes_In_A_Pool\obj\Debug\net8.0\ref\Pipes_In_A_Pool.dll
