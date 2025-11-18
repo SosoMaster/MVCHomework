@@ -1,0 +1,14 @@
+C:\Users\HomePC\source\repos\Price_for_transport\bin\Debug\net8.0\Price_for_transport.exe
+C:\Users\HomePC\source\repos\Price_for_transport\bin\Debug\net8.0\Price_for_transport.deps.json
+C:\Users\HomePC\source\repos\Price_for_transport\bin\Debug\net8.0\Price_for_transport.runtimeconfig.json
+C:\Users\HomePC\source\repos\Price_for_transport\bin\Debug\net8.0\Price_for_transport.dll
+C:\Users\HomePC\source\repos\Price_for_transport\bin\Debug\net8.0\Price_for_transport.pdb
+C:\Users\HomePC\source\repos\Price_for_transport\obj\Debug\net8.0\Price_for_transport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HomePC\source\repos\Price_for_transport\obj\Debug\net8.0\Price_for_transport.AssemblyInfoInputs.cache
+C:\Users\HomePC\source\repos\Price_for_transport\obj\Debug\net8.0\Price_for_transport.AssemblyInfo.cs
+C:\Users\HomePC\source\repos\Price_for_transport\obj\Debug\net8.0\Price_for_transport.csproj.CoreCompileInputs.cache
+C:\Users\HomePC\source\repos\Price_for_transport\obj\Debug\net8.0\Price_for_transport.dll
+C:\Users\HomePC\source\repos\Price_for_transport\obj\Debug\net8.0\refint\Price_for_transport.dll
+C:\Users\HomePC\source\repos\Price_for_transport\obj\Debug\net8.0\Price_for_transport.pdb
+C:\Users\HomePC\source\repos\Price_for_transport\obj\Debug\net8.0\Price_for_transport.genruntimeconfig.cache
+C:\Users\HomePC\source\repos\Price_for_transport\obj\Debug\net8.0\ref\Price_for_transport.dll
