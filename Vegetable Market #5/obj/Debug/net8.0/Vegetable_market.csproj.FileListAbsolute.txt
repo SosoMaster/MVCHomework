@@ -1,0 +1,14 @@
+C:\Users\HomePC\source\repos\Vegetable_market\bin\Debug\net8.0\Vegetable_market.exe
+C:\Users\HomePC\source\repos\Vegetable_market\bin\Debug\net8.0\Vegetable_market.deps.json
+C:\Users\HomePC\source\repos\Vegetable_market\bin\Debug\net8.0\Vegetable_market.runtimeconfig.json
+C:\Users\HomePC\source\repos\Vegetable_market\bin\Debug\net8.0\Vegetable_market.dll
+C:\Users\HomePC\source\repos\Vegetable_market\bin\Debug\net8.0\Vegetable_market.pdb
+C:\Users\HomePC\source\repos\Vegetable_market\obj\Debug\net8.0\Vegetable_market.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HomePC\source\repos\Vegetable_market\obj\Debug\net8.0\Vegetable_market.AssemblyInfoInputs.cache
+C:\Users\HomePC\source\repos\Vegetable_market\obj\Debug\net8.0\Vegetable_market.AssemblyInfo.cs
+C:\Users\HomePC\source\repos\Vegetable_market\obj\Debug\net8.0\Vegetable_market.csproj.CoreCompileInputs.cache
+C:\Users\HomePC\source\repos\Vegetable_market\obj\Debug\net8.0\Vegetable_market.dll
+C:\Users\HomePC\source\repos\Vegetable_market\obj\Debug\net8.0\refint\Vegetable_market.dll
+C:\Users\HomePC\source\repos\Vegetable_market\obj\Debug\net8.0\Vegetable_market.pdb
+C:\Users\HomePC\source\repos\Vegetable_market\obj\Debug\net8.0\Vegetable_market.genruntimeconfig.cache
+C:\Users\HomePC\source\repos\Vegetable_market\obj\Debug\net8.0\ref\Vegetable_market.dll
