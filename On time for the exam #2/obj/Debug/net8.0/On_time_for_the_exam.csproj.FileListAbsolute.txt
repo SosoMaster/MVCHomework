@@ -1,0 +1,14 @@
+C:\Users\HomePC\source\repos\On_time_for_the_exam\bin\Debug\net8.0\On_time_for_the_exam.exe
+C:\Users\HomePC\source\repos\On_time_for_the_exam\bin\Debug\net8.0\On_time_for_the_exam.deps.json
+C:\Users\HomePC\source\repos\On_time_for_the_exam\bin\Debug\net8.0\On_time_for_the_exam.runtimeconfig.json
+C:\Users\HomePC\source\repos\On_time_for_the_exam\bin\Debug\net8.0\On_time_for_the_exam.dll
+C:\Users\HomePC\source\repos\On_time_for_the_exam\bin\Debug\net8.0\On_time_for_the_exam.pdb
+C:\Users\HomePC\source\repos\On_time_for_the_exam\obj\Debug\net8.0\On_time_for_the_exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HomePC\source\repos\On_time_for_the_exam\obj\Debug\net8.0\On_time_for_the_exam.AssemblyInfoInputs.cache
+C:\Users\HomePC\source\repos\On_time_for_the_exam\obj\Debug\net8.0\On_time_for_the_exam.AssemblyInfo.cs
+C:\Users\HomePC\source\repos\On_time_for_the_exam\obj\Debug\net8.0\On_time_for_the_exam.csproj.CoreCompileInputs.cache
+C:\Users\HomePC\source\repos\On_time_for_the_exam\obj\Debug\net8.0\On_time_for_the_exam.dll
+C:\Users\HomePC\source\repos\On_time_for_the_exam\obj\Debug\net8.0\refint\On_time_for_the_exam.dll
+C:\Users\HomePC\source\repos\On_time_for_the_exam\obj\Debug\net8.0\On_time_for_the_exam.pdb
+C:\Users\HomePC\source\repos\On_time_for_the_exam\obj\Debug\net8.0\On_time_for_the_exam.genruntimeconfig.cache
+C:\Users\HomePC\source\repos\On_time_for_the_exam\obj\Debug\net8.0\ref\On_time_for_the_exam.dll
