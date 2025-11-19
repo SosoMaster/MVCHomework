@@ -9,7 +9,7 @@ namespace Tile_Repair.Controller
 {
     public class TileRepairService
     {
-        private const double TilePlacementTime = 0.2;
+        private const double _tilePlacementTime = 0.2;
 
         public TileRepairResult Calculate(TileRepairInput input)
         {
@@ -19,7 +19,7 @@ namespace Tile_Repair.Controller
 
             double areaToCover = areaSquare - areaBench;
             double tilesNeeded = areaToCover / areaTile;
-            double timeNeeded = tilesNeeded * TilePlacementTime;
+            double timeNeeded = tilesNeeded * _tilePlacementTime;
 
             return new TileRepairResult(tilesNeeded, timeNeeded);
         }
