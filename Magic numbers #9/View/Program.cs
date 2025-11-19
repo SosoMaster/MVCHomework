@@ -13,7 +13,7 @@ namespace Magic_Numbers
             var service = new MagicNumberService();
             var result = service.Generate(input);
 
-            Console.WriteLine(string.Join(" ", result.MagicCombinations));
+            Console.WriteLine(string.Join(" ", result._MagicCombinations));
         }
     }
 }

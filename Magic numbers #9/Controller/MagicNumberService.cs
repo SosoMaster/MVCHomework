@@ -12,7 +12,7 @@ namespace Magic_Numbers.Controller
         public MagicNumberResult Generate(MagicNumberInput input)
         {
             int target = input.MagicNumber;
-            var results = new List<string>();
+            var _results = new List<string>();
 
             for (int a = 1; a <= 9; a++)
             {
@@ -28,7 +28,7 @@ namespace Magic_Numbers.Controller
                                 {
                                     if (a * b * c * d * e * f == target)
                                     {
-                                        results.Add($"{a}{b}{c}{d}{e}{f}");
+                                        _results.Add($"{a}{b}{c}{d}{e}{f}");
                                     }
                                 }
                             }
@@ -37,7 +37,7 @@ namespace Magic_Numbers.Controller
                 }
             }
 
-            return new MagicNumberResult(results);
+            return new MagicNumberResult(_results);
         }
     }
 }

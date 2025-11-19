@@ -8,11 +8,11 @@ namespace Magic_Numbers.Models
 {
     public class MagicNumberResult
     {
-        public List<string> MagicCombinations { get; }
+        public List<string> _MagicCombinations { get; }
 
-        public MagicNumberResult(List<string> combinations)
+        public MagicNumberResult(List<string> _combinations)
         {
-            MagicCombinations = combinations;
+            _MagicCombinations = _combinations;
         }
     }
 }
