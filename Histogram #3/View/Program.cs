@@ -8,14 +8,14 @@ namespace Histogram
         public static void Main()
         {
             int n = int.Parse(Console.ReadLine());
-            List<int> numbers = new List<int>();
+            List<int> _numbers = new List<int>();
 
             for (int i = 0; i < n; i++)
             {
-                numbers.Add(int.Parse(Console.ReadLine()));
+                _numbers.Add(int.Parse(Console.ReadLine()));
             }
 
-            HistogramInput input = new HistogramInput(numbers);
+            HistogramInput input = new HistogramInput(_numbers);
             HistogramService service = new HistogramService();
             HistogramResult result = service.CalculateHistogram(input);
 
