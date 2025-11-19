@@ -15,7 +15,7 @@ namespace Dumb_Password_Generator
             var service = new PasswordGeneratorService();
             var output = service.Generate(input);
 
-            Console.WriteLine(string.Join(" ", output.Passwords));
+            Console.WriteLine(string.Join(" ", output._passwords));
         }
     }
 

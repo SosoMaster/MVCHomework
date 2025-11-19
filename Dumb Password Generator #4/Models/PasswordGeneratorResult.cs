@@ -8,11 +8,11 @@ namespace Dumb_Password_Generator.Models
 {
     public class PasswordGeneratorResult
     {
-        public List<string> Passwords { get; }
+        public List<string> _passwords { get; }
 
         public PasswordGeneratorResult()
         {
-            Passwords = new List<string>();
+            _passwords = new List<string>();
         }
     }
 }

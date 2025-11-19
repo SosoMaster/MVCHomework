@@ -29,7 +29,7 @@ namespace Dumb_Password_Generator.Controller
                                 if (d3 > d1 && d3 > d2)
                                 {
                                     string pass = $"{d1}{d2}{c1}{c2}{d3}";
-                                    result.Passwords.Add(pass);
+                                    result._passwords.Add(pass);
                                 }
                             }
                         }
