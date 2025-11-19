@@ -8,11 +8,11 @@ namespace Histogram.Models
 {
     public class HistogramInput
     {
-        public List<int> Numbers { get; }
+        public List<int> _Numbers { get; }
 
-        public HistogramInput(List<int> numbers)
+        public HistogramInput(List<int> _numbers)
         {
-            Numbers = numbers;
+            _Numbers = _numbers;
         }
     }
 }
