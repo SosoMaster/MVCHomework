@@ -8,11 +8,11 @@ namespace Division_Without_Remainder.Models
 {
     public class DivisionInput
     {
-        public List<int> Numbers { get; }
+        public List<int> _Numbers { get; }
 
-        public DivisionInput(List<int> numbers)
+        public DivisionInput(List<int> _numbers)
         {
-            Numbers = numbers;
+            _Numbers = _numbers;
         }
     }
 }
