@@ -8,7 +8,7 @@ namespace Price_for_transport.Models
 {
     public class Bus : TransportOption
     {
-        private const double Rate = 0.09;
+        private const double _rate = 0.09;
 
         public override bool CanUse(int distance)
         {
@@ -17,7 +17,7 @@ namespace Price_for_transport.Models
 
         public override double CalculatePrice(int distance, string timeOfDay)
         {
-            return distance * Rate;
+            return distance * _rate;
         }
     }
 }

@@ -9,11 +9,11 @@ namespace Price_for_transport.Controller
 {
     public class TransportPriceCalculator
     {
-        private readonly List<TransportOption> options;
+        private readonly List<TransportOption> _options;
 
         public TransportPriceCalculator()
         {
-            options = new List<TransportOption>()
+            _options = new List<TransportOption>()
         {
             new Taxi(),
             new Bus(),
@@ -25,7 +25,7 @@ namespace Price_for_transport.Controller
         {
             double minPrice = double.MaxValue;
 
-            foreach (var option in options)
+            foreach (var option in _options)
             {
                 if (option.CanUse(distance))
                 {
